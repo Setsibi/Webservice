@@ -19,7 +19,7 @@ namespace Keletso_Group_WebService.Services
         {
             context = _context;
         }
-        public async Task<List<ChainStores>> GetAllLegos()
+        public async Task<List<ChainStores>> GetAllStores()
         {
             var client = new RestClient("https://datagram-products-v1.p.rapidapi.com/retailers/");
             var request = new RestRequest(Method.GET);

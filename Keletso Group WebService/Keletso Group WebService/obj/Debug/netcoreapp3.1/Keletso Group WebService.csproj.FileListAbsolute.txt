@@ -264,7 +264,6 @@ C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso
 C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\obj\Debug\netcoreapp3.1\Keletso Group WebService.csprojAssemblyReference.cache
 C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\obj\Debug\netcoreapp3.1\Keletso Group WebService.csproj.CoreCompileInputs.cache
 C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\obj\Debug\netcoreapp3.1\Keletso Group WebService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Dineo\Desktop\Keletso Group WebService\Keletso Group WebService\Keletso Group WebService\obj\Debug\netcoreapp3.1\Keletso Group WebService.MvcApplicationPartsAssemblyInfo.cache

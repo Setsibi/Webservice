@@ -20,11 +20,11 @@ namespace Keletso_Group_WebService.Controllers
         {
             integrationService = _integrationService;
         }
-        // GET: api/AustraliaRetailers
-        [HttpGet("AustraliaRetailers")]
+        // GET: api/Retailers
+        [HttpGet("Retailers")]
         public async Task<List<ChainStores>> GetAllInventories()
         {
-            return await integrationService.GetAllLegos();
+            return await integrationService.GetAllStores();
         }
 
         // GET: api/LineoCashNCarry_Sales

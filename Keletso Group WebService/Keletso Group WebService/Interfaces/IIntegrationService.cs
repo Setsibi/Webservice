@@ -8,7 +8,7 @@ namespace Keletso_Group_WebService.Interfaces
 {
     public interface IIntegrationService
     {
-        Task<List<ChainStores>> GetAllLegos();
+        Task<List<ChainStores>> GetAllStores();
         Task<List<InventoryModel>> GetLineoCashNCarryInventory();       
     }
 }
