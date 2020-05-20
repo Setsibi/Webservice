@@ -24,7 +24,7 @@ namespace Keletso_Group_WebService.Services
             var client = new RestClient("https://datagram-products-v1.p.rapidapi.com/retailers/");
             var request = new RestRequest(Method.GET);
             request.AddHeader("x-rapidapi-host", "datagram-products-v1.p.rapidapi.com");
-            request.AddHeader("x-rapidapi-key", "68c9c52947msh28db909c6f5adfap154fa2jsn1d184a858db0");
+            request.AddHeader("x-rapidapi-key", "89cfcefd0emsh8d89892643a859cp173cddjsnd957a5528260");
             IRestResponse response = client.Execute(request);
 
             var stores = new List<ChainStores>();
